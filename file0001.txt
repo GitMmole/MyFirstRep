@@ -1,1 +1,2 @@
-qwe	qweqweqweqweqwe
+new string 1
+string #2
