@@ -1,3 +1,7 @@
 new string 1
 string #2
+<<<<<<< HEAD
 string 3
+=======
+String #3 from master4
+>>>>>>> master4
